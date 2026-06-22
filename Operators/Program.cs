@@ -19,12 +19,16 @@ namespace Operators
 * 3) Increment and Decrement Operator
 * 4) Relational Operator
 * 5) Bitwise Operator
-* 6) Conditional Operator*/
+* 6) Conditional Operator
+
+     * Arithmetic Operator: It is used to perform mathematical operations.
+             +, -, *, /, % */
     internal class Program
     {
         static void Main(string[] args)
         {
-           
+
+
         }
     }
 }
